@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/jP9wEuUaFvxReZ/w+cyXJDStJ9W6ZnWl+5T7ssWO8bxnxdExnm1QpTKV/4idZIu6fKaDRPyJe4LE7BLAQwQwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danii\\source\\repos\\GitHubProfile\\GitHubProfile\\GitHubProfile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danii\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\danii\\.nuget\\packages\\refit\\5.2.1\\refit.5.2.1.nupkg.sha512",
+    "C:\\Users\\danii\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
